@@ -1,0 +1,258 @@
+body{
+	margin: 0;
+	padding: 0;
+	min-width: 1000px;
+	font-family: Arial;
+}
+h2{font-size: 20px;
+	padding: 27px 0 27px 18px;
+	margin: 0 0 34px;
+	border-bottom: 1px solid #e5e5e5;
+}
+#news {
+	background-color: black;
+	color: white;
+	padding: 20px 0;
+	
+}
+
+ .a1 {
+	color: white;
+	text-decoration: none;
+}
+.mid {width: 960px;
+	margin: 0 auto;
+	position: relative;}
+
+#news2{float: right;
+}
+#logo {
+	display:flex;
+	align-items: center;
+}
+
+#logo1{
+	margin-top: 40px;
+	margin-right: 430px;
+}
+#logo2{
+	margin-top: 40px;margin-right: 100px;
+}
+.logo3{
+	margin-top: 40px;
+	m
+}
+.w {margin-top: 40px;
+padding-bottom: 20px;}
+.ww {color: black;
+	text-decoration: none;
+	margin-right: 35px;
+}
+.main {padding-top: 20px; 
+	background-color: #f9f9f9;
+	background-image: url('img/123.png');
+	background-repeat: repeat-x;
+}
+.main1 { display: flex;
+	width: 960px;
+	margin: 0 auto;
+}
+#left-section{
+	width: 250px;
+	background-color: white;
+	float: left;
+}
+.new-items { padding-left: 18px;
+   	margin-bottom: 27px;
+   	font-size: 14px;
+   }
+ .new-items-text{
+   	margin-bottom: 20px;
+   }
+.hm{
+	position: relative;
+   	margin-bottom: 30px;
+   } 
+.hm  a{
+   	font-size:12px;
+   	color: #b7b7bf;
+   }
+.new-time{
+   	position: absolute;
+   	top: 0;
+   	left: 120px;
+   	padding-left: 15px;
+   	background-image: url('1/11.png');
+   	background-repeat: no-repeat;
+   }
+.new-coments {
+   	position: absolute;
+   	top: 0;
+   	left: 180px;
+   	padding-left: 15px;
+   	background-image: url('1/comments.png');
+   	background-repeat: no-repeat;
+   }
+.botton {background-color: white;
+   	border-color: #5798d0;
+   	color: #5798d0;
+   	font-size: 14px;
+   	border-radius: 30px;
+   	padding: 16px 50px 16px
+   	50px;
+   	margin: 0 36px 0 20px;
+   }
+#center-section {background-color:#f9f9f9 ;
+	width: 460px;
+	margin-left: 20px;
+	float: left;}
+.center-hm {width: 460px;
+	}
+#logo3 {width: 460px;
+	}
+.logo12 {display: flex;
+	margin-top: 20px;
+	width: 220px;
+}
+
+.logo-32 {width: 220px;
+	float: left;
+	margin-right: 20px;
+}
+.logo-33 {
+	width: 220px;
+}
+.new-logo {
+	font-size: 14px;
+	margin-top: 10px;
+}
+.hm1  a {
+	font-size:12px;
+   	color: #b7b7bf;
+}
+.new-time1{
+   	position: absolute;
+   	top: 0;
+   	left: 100px;
+   	padding-left: 15px;
+   	background-image: url('1/11.png');
+   	background-repeat: no-repeat;
+   }
+   .new-coments1 {
+   	position: absolute;
+   	top: 0;
+   	left: 160px;
+   	padding-left: 15px;
+   	background-image: url('1/comments.png');
+   	background-repeat: no-repeat;
+   }
+   .hm1 {
+   	position: relative;
+   	margin-top: 20px;
+   }
+#right-section{
+	width: 250px;
+	float: right;
+margin-left: 18px;}
+.banner-1 {width: 250px;
+	margin-bottom: 20px;
+
+}
+#fon {background-color: #f9f9f9 ;
+}
+.fon1 {display: flex;
+	width: 960px;
+	margin: 0 auto;
+}
+.png1 {float:left;
+	width: 590px;
+	margin-top: 20px;
+}
+.Supernews {
+	background-color: white;
+	margin-top: 20px;
+}
+.new-items11 { padding-left: 18px;
+   	margin-bottom: 27px;
+   	font-size: 14px;
+   }
+   .hm11  a{
+   	font-size:12px;
+   	color: #b7b7bf;
+   }
+   .new-time11{
+   	position: absolute;
+   	top: 0;
+   	left: 100px;
+   	padding-left: 15px;
+   	background-image: url('1/11.png');
+   	background-repeat: no-repeat;}
+   	.new-coments11 {
+   	position: absolute;
+   	top: 0;
+   	left: 180px;
+   	padding-left: 15px;
+   	background-image: url('1/comments.png');
+   	background-repeat: no-repeat;}
+   	.new-items-text11{margin-bottom: 20px;
+   		padding-left: 18px;}
+   	.hm11{
+	position: relative;
+   	margin-bottom: 30px;
+   	margin-left: 18px;}
+.foot {background-color: #00122f;
+color: white;}
+.foot1 {display: flex;
+	width: 960px;
+	margin: 0 auto;
+}
+.foot1 a{
+	text-decoration: none;
+	color: white;
+	margin-bottom: 20px;
+}
+.foot55 {width: 90px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.f {
+	margin-bottom: 20px;
+}
+.foot56 {width: 90px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 60px;
+}
+.foot57 {
+	margin-top: 50px;
+	margin-left: 200px;}
+
+.f12 {position: relative;
+}
+.ff {
+	width: 10px;
+	height: 10px;
+}
+.fff {
+	margin-left: 60px;
+}
+.f2{
+	margin-top: 30px;
+	margin-left: 20px;
+} 
+.f3 {
+	margin-top: 20px;
+	margin-left: 20px;
+} 
+.g1 {display: flex;
+	margin-top: 50px;
+	width: 230px;
+}
+.g12 {
+	margin-right: 35px;
+}
+.g {margin-left: 180px;
+}
+.n1 {
+	margin-top: 40px;
+}
